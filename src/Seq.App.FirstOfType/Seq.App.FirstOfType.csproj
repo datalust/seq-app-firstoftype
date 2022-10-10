@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <VersionPrefix>3.0.0</VersionPrefix>
+    <VersionPrefix>3.0.1</VersionPrefix>
     <Description>An app for Seq that raises an event whenever it detects that a raised event type has not been seen previously. Requires Seq 5.1+, for earlier Seq versions
       use the 2.x series of releases of this package.</Description>
     <Authors>Datalust and Contributors</Authors>
